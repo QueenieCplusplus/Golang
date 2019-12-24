@@ -33,7 +33,11 @@ https://github.com/QueenieCplusplus/Golang/blob/master/Map.md
 
 slice https://github.com/QueenieCplusplus/Golang/blob/master/Slice.md (切片資料)
 
-Crawler https://github.com/QueenieCplusplus/Golang/blob/master/Scheduler.go (cpu分配器)
+Crawler 
+
+https://github.com/QueenieCplusplus/Golang/blob/master/Scheduler.md (專案模組)
+
+https://github.com/QueenieCplusplus/Golang/blob/master/Scheduler.go (cpu分配器)
 
 https://github.com/QueenieCplusplus/Golang/blob/master/PageDownloader.go (網頁下載器)
 
