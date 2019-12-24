@@ -25,7 +25,11 @@ pipeline https://github.com/QueenieCplusplus/Golang/blob/master/Pipeline.go (單
 
 非同步處理共用資源 share memory 的 IPC 的 signal、雙向全雙工的 Socket
 
-signal https://github.com/QueenieCplusplus/Golang/blob/master/sig.go
+signal 
+
+   https://github.com/QueenieCplusplus/Networking/blob/master/sig.md
+
+   https://github.com/QueenieCplusplus/Golang/blob/master/sig.go
 
    https://github.com/QueenieCplusplus/Golang/blob/master/Sign.go
    
