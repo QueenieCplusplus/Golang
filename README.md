@@ -11,24 +11,31 @@ lifecycle https://github.com/QueenieCplusplus/Golang/blob/master/main.go (main)
 
 ---------------------------------------------
 
-循序的單向通訊（雙工與半雙工）
+{循序的通訊}
 
-lifecycle https://github.com/QueenieCplusplus/Golang/blob/master/main.go (main)
+管線與佇列都屬於循序的通訊，前者屬於單向半雙工。
+
+MQ: TBD (非 go 語言特點)
+
+pipeline https://github.com/QueenieCplusplus/Golang/blob/master/Pipeline.go (單向半雙工-管線)
+
+pool https://github.com/QueenieCplusplus/Golang/blob/master/Pool.go (實體池)
+
+---------------------------------------------
+
+{非循序的通訊}（不確定性與資源競奪上鎖）
+
+非同步處理共用資源 share memory 的 IPC 的 signal、雙向全雙工的 Socket
+
 signal https://github.com/QueenieCplusplus/Golang/blob/master/sig.go
 
    https://github.com/QueenieCplusplus/Golang/blob/master/Sign.go
    
    https://github.com/QueenieCplusplus/Golang/blob/master/sig.md
 
-channel https://github.com/QueenieCplusplus/Golang/blob/master/ChannelManager.go (單向-通道)
+channel https://github.com/QueenieCplusplus/Golang/blob/master/ChannelManager.go (非循序的單向-通道)
 
-pool https://github.com/QueenieCplusplus/Golang/blob/master/Pool.go (實體池)
-
-pipeline https://github.com/QueenieCplusplus/Golang/blob/master/Pipeline.go (單向半雙工-管線)
-
----------------------------------------------
-
-非循序的通訊（不確定性與資源競奪上鎖）
+socket: 雙向通道 (雙向全雙工)
 
 parallel https://github.com/QueenieCplusplus/Golang/blob/master/Parallel.md (平行執行)
 
