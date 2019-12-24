@@ -28,7 +28,7 @@ pipeline https://github.com/QueenieCplusplus/Golang/blob/master/Pipeline.go (單
 
 ---------------------------------------------
 
-非循序的通訊
+非循序的通訊（不確定性與資源競奪上鎖）
 
 parallel https://github.com/QueenieCplusplus/Golang/blob/master/Parallel.md (平行執行)
 
