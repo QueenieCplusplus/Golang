@@ -33,6 +33,8 @@ Crawler https://github.com/QueenieCplusplus/Golang/blob/master/Scheduler.go (cpu
 
 https://github.com/QueenieCplusplus/Golang/blob/master/PageDownloader.go (網頁下載器)
 
+https://github.com/QueenieCplusplus/Golang/blob/master/Analyzer.go （內容解析器）
+
 Package https://github.com/QueenieCplusplus/Golang/blob/master/Pkg.md
 
 Module Manager https://github.com/QueenieCplusplus/Golang/blob/master/GoMod.md
