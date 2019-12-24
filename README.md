@@ -5,4 +5,6 @@ plz see code.
 
 signal https://github.com/QueenieCplusplus/Golang/blob/master/sig.go
 
+   https://github.com/QueenieCplusplus/Golang/blob/master/Sign.go
+
 chennel https://github.com/QueenieCplusplus/Golang/blob/master/ChannelManager.go
