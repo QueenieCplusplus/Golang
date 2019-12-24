@@ -3,6 +3,6 @@
 
 plz see code.
 
-signal
+signal https://github.com/QueenieCplusplus/Golang/blob/master/sig.go
 
 chennel https://github.com/QueenieCplusplus/Golang/blob/master/ChannelManager.go
