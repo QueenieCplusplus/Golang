@@ -31,6 +31,8 @@ loop https://github.com/QueenieCplusplus/Golang/blob/master/Range.go (range)
 
 https://github.com/QueenieCplusplus/Golang/blob/master/Range.md
 
+https://github.com/QueenieCplusplus/Golang/blob/master/TypePointer.md (Type)
+
 map https://github.com/QueenieCplusplus/Golang/blob/master/Map.go (雜湊表)
 
 https://github.com/QueenieCplusplus/Golang/blob/master/Map.md
