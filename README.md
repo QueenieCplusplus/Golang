@@ -35,6 +35,9 @@ pipeline https://github.com/QueenieCplusplus/Golang/blob/master/Pipeline.go (單
 
 signal 
 
+               //(2)使用 os/signal 套件的 Notify 方法宣告方程式
+              func Notify(c chan<- os.Signal, sig ...os.Signal)
+
    https://github.com/QueenieCplusplus/Networking/blob/master/sig.md
 
    https://github.com/QueenieCplusplus/Golang/blob/master/sig.go
