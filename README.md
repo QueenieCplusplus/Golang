@@ -19,8 +19,6 @@ MQ: TBD (非 go 語言特點)
 
 pipeline https://github.com/QueenieCplusplus/Golang/blob/master/Pipeline.go (單向半雙工-管線)
 
-pool https://github.com/QueenieCplusplus/Golang/blob/master/Pool.go (實體池)
-
 ---------------------------------------------
 
 {非循序的通訊}（不確定性與資源競奪上鎖）
@@ -34,6 +32,8 @@ signal https://github.com/QueenieCplusplus/Golang/blob/master/sig.go
    https://github.com/QueenieCplusplus/Golang/blob/master/sig.md
 
 channel https://github.com/QueenieCplusplus/Golang/blob/master/ChannelManager.go (非循序的單向-通道)
+
+pool https://github.com/QueenieCplusplus/Golang/blob/master/Pool.go (實體池)
 
 socket: 雙向通道 (雙向全雙工)
 
