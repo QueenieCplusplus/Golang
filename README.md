@@ -12,6 +12,8 @@ lifecycle https://github.com/QueenieCplusplus/Golang/blob/master/main.go (main)
 signal https://github.com/QueenieCplusplus/Golang/blob/master/sig.go
 
    https://github.com/QueenieCplusplus/Golang/blob/master/Sign.go
+   
+   https://github.com/QueenieCplusplus/Golang/blob/master/sig.md
 
 chnnel https://github.com/QueenieCplusplus/Golang/blob/master/ChannelManager.go (單向通道)
 
