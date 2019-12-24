@@ -25,9 +25,11 @@ pipeline https://github.com/QueenieCplusplus/Golang/blob/master/Pipeline.go (單
 
 非同步處理共用資源 share memory 的 IPC 的 signal、雙向全雙工的 Socket
 
-       Analog Wave -> Modem Encoder -> 010101 in Seq -> transmitter IO
+       Analog Wave -> Modem Encoder to Signal-> Serailizer -> transmitter IO
+       
+                 -----------> Message Queue ----------->
 
-       Analog Wave<- Modem Decoder -> 010101 in Seq <- receiver IO
+       Analog Wave<- Modem Decoder to Signal -> Serializer <- receiver IO
 
 signal 
 
