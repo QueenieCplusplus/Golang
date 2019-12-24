@@ -25,7 +25,7 @@ half-duplex https://github.com/QueenieCplusplus/Networking/blob/master/half_dupl
 
 ---------------------------------------------
 
-{非循序的通訊}（不確定性與資源競奪上鎖）
+{非同步的通訊}（不確定性與資源競奪上鎖）
 
 * 同系統處理共用資源 share memory 的 IPC 使用 signal notify IPC
 * duplex 雙向全雙工的不同軟體系統間的溝通 Socket
