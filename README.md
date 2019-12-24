@@ -7,7 +7,7 @@ signal https://github.com/QueenieCplusplus/Golang/blob/master/sig.go
 
    https://github.com/QueenieCplusplus/Golang/blob/master/Sign.go
 
-chennel https://github.com/QueenieCplusplus/Golang/blob/master/ChannelManager.go
+chennel https://github.com/QueenieCplusplus/Golang/blob/master/ChannelManager.go (單向通道)
 
 goroutine https://github.com/QueenieCplusplus/Golang/blob/master/Go_Routine.md
 
