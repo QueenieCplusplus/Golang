@@ -40,7 +40,7 @@ half-duplex https://github.com/QueenieCplusplus/Networking/blob/master/half_dupl
 
 signal 
 
-               //(2)使用 os/signal 套件的 Notify 方法宣告方程式
+               //os/signal的 Notify 方法
               func Notify(c chan<- os.Signal, sig ...os.Signal)
               
 >>>
