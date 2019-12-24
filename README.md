@@ -27,6 +27,8 @@ loop https://github.com/QueenieCplusplus/Golang/blob/master/Range.go (range)
 
 map https://github.com/QueenieCplusplus/Golang/blob/master/Map.go (雜湊表)
 
+https://github.com/QueenieCplusplus/Golang/blob/master/Map.md
+
 slice https://github.com/QueenieCplusplus/Golang/blob/master/Slice.md (切片資料)
 
 Crawler https://github.com/QueenieCplusplus/Golang/blob/master/Scheduler.go (cpu分配器)
