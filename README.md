@@ -10,3 +10,5 @@ signal https://github.com/QueenieCplusplus/Golang/blob/master/sig.go
 chennel https://github.com/QueenieCplusplus/Golang/blob/master/ChannelManager.go
 
 Package https://github.com/QueenieCplusplus/Golang/blob/master/Pkg.md
+
+Module Manager https://github.com/QueenieCplusplus/Golang/blob/master/GoMod.md
