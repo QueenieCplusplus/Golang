@@ -27,7 +27,9 @@ pipeline https://github.com/QueenieCplusplus/Golang/blob/master/Pipeline.go (單
 
        Analog Wave -> Modem Encoder to Signal-> Serailizer -> transmitter IO
        
-                 -----------> Message Queue ----------->
+       
+          Socket Open -----------> Message Queue -----------> Socket Open
+          
 
        Analog Wave<- Modem Decoder to Signal -> Serializer <- receiver IO
 
