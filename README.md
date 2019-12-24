@@ -9,6 +9,11 @@ structure https://github.com/QueenieCplusplus/Golang/blob/master/main.md (專案
 
 lifecycle https://github.com/QueenieCplusplus/Golang/blob/master/main.go (main)
 
+---------------------------------------------
+
+循序的單向通訊（雙工與半雙工）
+
+lifecycle https://github.com/QueenieCplusplus/Golang/blob/master/main.go (main)
 signal https://github.com/QueenieCplusplus/Golang/blob/master/sig.go
 
    https://github.com/QueenieCplusplus/Golang/blob/master/Sign.go
@@ -20,6 +25,10 @@ channel https://github.com/QueenieCplusplus/Golang/blob/master/ChannelManager.go
 pool https://github.com/QueenieCplusplus/Golang/blob/master/Pool.go (實體池)
 
 pipeline https://github.com/QueenieCplusplus/Golang/blob/master/Pipeline.go (單向半雙工-管線)
+
+---------------------------------------------
+
+非循序的通訊
 
 parallel https://github.com/QueenieCplusplus/Golang/blob/master/Parallel.md (平行執行)
 
