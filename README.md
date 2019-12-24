@@ -43,6 +43,10 @@ rune TBD
 
 fallthru TBD
 
+逐位元互斥運算 TBD
+
+---------------------------------------------
+
 Crawler 
 
 https://github.com/QueenieCplusplus/Golang/blob/master/Scheduler.md (專案模組)
