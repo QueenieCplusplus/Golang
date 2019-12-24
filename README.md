@@ -21,14 +21,14 @@ pipeline https://github.com/QueenieCplusplus/Golang/blob/master/Pipeline.go (單
 
        兩設備或兩端點同時送出訊號 emit signal，但不同時傳送 transmit，所以還是有點像是肉眼看不到差異的非同步(非字面上同步的概念)。
 
-duplex https://github.com/QueenieCplusplus/Networking/blob/master/half_duplex.md (半雙工的解釋)
+half-duplex https://github.com/QueenieCplusplus/Networking/blob/master/half_duplex.md (半雙工的解釋)
 
 ---------------------------------------------
 
 {非循序的通訊}（不確定性與資源競奪上鎖）
 
 * 同系統處理共用資源 share memory 的 IPC 使用 signal & channel
-* 雙向全雙工的不同軟體系統間的溝通 Socket
+* duplex 雙向全雙工的不同軟體系統間的溝通 Socket
 
        Analog Wave -> Modem Encoder to Signal-> Serailizer -> transmitter IO
        
