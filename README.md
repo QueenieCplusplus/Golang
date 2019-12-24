@@ -17,6 +17,8 @@ threads https://github.com/QueenieCplusplus/Golang/blob/master/MultiThread.md
 
 goroutine https://github.com/QueenieCplusplus/Golang/blob/master/Go_Routine.md
 
+loop https://github.com/QueenieCplusplus/Golang/blob/master/Range.go (range)
+
 Package https://github.com/QueenieCplusplus/Golang/blob/master/Pkg.md
 
 Module Manager https://github.com/QueenieCplusplus/Golang/blob/master/GoMod.md
