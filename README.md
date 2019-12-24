@@ -9,6 +9,8 @@ signal https://github.com/QueenieCplusplus/Golang/blob/master/sig.go
 
 chennel https://github.com/QueenieCplusplus/Golang/blob/master/ChannelManager.go (單向通道)
 
+threads https://github.com/QueenieCplusplus/Golang/blob/master/MultiThread.md
+
 goroutine https://github.com/QueenieCplusplus/Golang/blob/master/Go_Routine.md
 
 Package https://github.com/QueenieCplusplus/Golang/blob/master/Pkg.md
