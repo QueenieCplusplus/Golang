@@ -19,6 +19,8 @@ MQ: TBD (非 go 語言特點)
 
 pipeline https://github.com/QueenieCplusplus/Golang/blob/master/Pipeline.go (單向半雙工-管線)
 
+       兩設備或兩端點同時送出訊號 emit signal，但不同時傳送 transmit，所以還是有點像是肉眼看不到差異的非同步(非字面上同步的概念)。
+
 duplex https://github.com/QueenieCplusplus/Networking/blob/master/half_duplex.md (半雙工的解釋)
 
 ---------------------------------------------
