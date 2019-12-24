@@ -15,6 +15,8 @@ pool https://github.com/QueenieCplusplus/Golang/blob/master/Pool.go (實體池)
 
 pipeline https://github.com/QueenieCplusplus/Golang/blob/master/Pipeline.go (管線)
 
+parallel https://github.com/QueenieCplusplus/Golang/blob/master/Parallel.md (平行執行)
+
 threads https://github.com/QueenieCplusplus/Golang/blob/master/MultiThread.md
 
 goroutine https://github.com/QueenieCplusplus/Golang/blob/master/Go_Routine.md
