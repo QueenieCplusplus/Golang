@@ -19,6 +19,8 @@ MQ: TBD (非 go 語言特點)
 
 pipeline https://github.com/QueenieCplusplus/Golang/blob/master/Pipeline.go (單向半雙工-管線)
 
+duplex https://github.com/QueenieCplusplus/Networking/blob/master/half_duplex.md (半雙工的解釋)
+
 ---------------------------------------------
 
 {非循序的通訊}（不確定性與資源競奪上鎖）
