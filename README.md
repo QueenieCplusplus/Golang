@@ -15,9 +15,9 @@ lifecycle https://github.com/QueenieCplusplus/Golang/blob/master/main.go (main)
 
 管線與佇列都屬於循序的通訊，前者屬於單向半雙工。
 
-MQ: TBD (非 go 語言特點)
+MQ IPC: TBD (非 go 語言特點)
 
-pipeline https://github.com/QueenieCplusplus/Golang/blob/master/Pipeline.go (單向半雙工-管線)
+pipeline IPC https://github.com/QueenieCplusplus/Golang/blob/master/Pipeline.go (單向半雙工-管線)
 
        兩設備或兩端點同時送出訊號 emit signal，但不同時傳送 transmit，僅允許切換方向，只允許單向傳輸，所以還是有點像是肉眼看不到差異的非同步(非字面上同步的概念)。
 
@@ -27,7 +27,7 @@ half-duplex https://github.com/QueenieCplusplus/Networking/blob/master/half_dupl
 
 {非循序的通訊}（不確定性與資源競奪上鎖）
 
-* 同系統處理共用資源 share memory 的 IPC 使用 signal & channel
+* 同系統處理共用資源 share memory 的 IPC 使用 signal notify IPC
 * duplex 雙向全雙工的不同軟體系統間的溝通 Socket
 
        Analog Wave -> Modem Encoder to Signal-> Serailizer -> transmitter IO
@@ -42,6 +42,26 @@ signal
 
                //(2)使用 os/signal 套件的 Notify 方法宣告方程式
               func Notify(c chan<- os.Signal, sig ...os.Signal)
+              
+>>>
+
+                           核心
+                  
+                            ｜
+
+                          虛擬機
+                  
+                            ｜
+
+                           進程                
+                
+                          / ｜ \
+                          
+                       -   IPC   -
+ 
+                     常式 常式 常式 常式 ...
+                   
+>>>
 
    https://github.com/QueenieCplusplus/Networking/blob/master/sig.md
 
