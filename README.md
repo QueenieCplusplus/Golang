@@ -27,7 +27,8 @@ duplex https://github.com/QueenieCplusplus/Networking/blob/master/half_duplex.md
 
 {非循序的通訊}（不確定性與資源競奪上鎖）
 
-非同步處理共用資源 share memory 的 IPC 的 signal、雙向全雙工的 Socket
+* 同系統處理共用資源 share memory 的 IPC 使用 signal & channel
+* 雙向全雙工的不同軟體系統間的溝通 Socket
 
        Analog Wave -> Modem Encoder to Signal-> Serailizer -> transmitter IO
        
