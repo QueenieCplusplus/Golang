@@ -35,7 +35,7 @@ signal
    
    https://github.com/QueenieCplusplus/Golang/blob/master/sig.md
 
-channel https://github.com/QueenieCplusplus/Golang/blob/master/ChannelManager.go (非循序的單向-通道)
+channel https://github.com/QueenieCplusplus/Golang/blob/master/ChannelManager.go (單向-通道)
 
 pool https://github.com/QueenieCplusplus/Golang/blob/master/Pool.go (實體池)
 
