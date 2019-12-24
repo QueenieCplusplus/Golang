@@ -42,13 +42,9 @@
 
      https://github.com/poupougo/Go_TypePointer
 
-11. "*" (multicard) (語法)
-
-    指標相關資料請詳：https://m.facebook.com/story.php?story_fbid=3660483613965420&substory_index=0&id=2730376213642836&ref=bookmarks&_ft_=mf_story_key.3660483613965420%3Atop_level_post_id.3660483613965420%3Atl_objid.3660483613965420%3Acontent_owner_id_new.2730376213642836%3Athrowback_story_fbid.3660483613965420%3Apage_id.2730376213642836%3Aphoto_id.3660483613965420%3Astory_location.4%3Astory_attachment_style.photo%3Apage_insights.%7B%222730376213642836%22%3A%7B%22page_id%22%3A2730376213642836%2C%22actor_id%22%3A2730376213642836%2C%22dm%22%3A%7B%22isShare%22%3A0%2C%22originalPostOwnerID%22%3A0%7D%2C%22psn%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22post_context%22%3A%7B%22object_fbtype%22%3A22%2C%22publish_time%22%3A1574079870%2C%22story_name%22%3A%22EntPhotoNodeBasedEdgeStory%22%2C%22story_fbid%22%3A%5B3660483613965420%5D%7D%2C%22role%22%3A1%2C%22sl%22%3A4%2C%22targets%22%3A%5B%7B%22actor_id%22%3A2730376213642836%2C%22page_id%22%3A2730376213642836%2C%22post_id%22%3A3660483613965420%2C%22role%22%3A1%2C%22share_id%22%3A0%7D%5D%7D%7D&__tn__=%2As%2As-R
-
     因為 Golang 將 func 設定為一級階層，所以呼叫時可以搭配的指標符號 pointer。
 
-12. "&" (and per se and) (語法)
+11. "&" (and per se and) (語法)
 
     因為 Golang 將 func 設定為一級階層，所以呼叫時可以搭配的指標符號 pointer。
     
@@ -73,11 +69,11 @@
 	    
 	
 
-13.  ^ 符號 (語法)
+12.  ^ 符號 (語法)
 
    https://github.com/poupougo/Go_bit_wise_ops
 
-14. for range (語法)
+13. for range (語法)
 
    https://github.com/poupougo/Go_range/blob/master/README.md
 
@@ -104,11 +100,11 @@
 			}
 		}  
 
-15. ... (語法)
+14. ... (語法)
 
     （TBD）
     
-16. ; (語法)
+15. ; (語法)
 
     常用在判斷式 if 子句，代表 &&，亦可省略。
 
@@ -122,7 +118,7 @@
 			}
 		}()
 	
-17. 方程式的表示方式
+16. 方程式的表示方式
 
     func(){}()
     
@@ -145,7 +141,7 @@
 		
 	      }
 	      
-18. _, 隱匿欄位 (語法)
+17. _, 隱匿欄位 (語法)
 
     _, 為空白識別符號，相當於此值可以扔掉不用，此判別只需要其它參數值。
     
