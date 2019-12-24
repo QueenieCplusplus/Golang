@@ -9,6 +9,8 @@ signal https://github.com/QueenieCplusplus/Golang/blob/master/sig.go
 
 chennel https://github.com/QueenieCplusplus/Golang/blob/master/ChannelManager.go (單向通道)
 
+pool https://github.com/QueenieCplusplus/Golang/blob/master/Pool.go (實體池)
+
 pipeline https://github.com/QueenieCplusplus/Golang/blob/master/Pipeline.go (管線)
 
 threads https://github.com/QueenieCplusplus/Golang/blob/master/MultiThread.md
