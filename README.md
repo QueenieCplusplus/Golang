@@ -3,6 +3,8 @@
 
 plz see code.
 
+structure https://github.com/QueenieCplusplus/Golang/blob/master/main.md (專案結構)
+
 lifecycle https://github.com/QueenieCplusplus/Golang/blob/master/main.go (main)
 
 signal https://github.com/QueenieCplusplus/Golang/blob/master/sig.go
