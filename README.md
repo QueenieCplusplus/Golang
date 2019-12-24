@@ -75,8 +75,6 @@ channel https://github.com/QueenieCplusplus/Golang/blob/master/ChannelManager.go
 
 pool https://github.com/QueenieCplusplus/Golang/blob/master/Pool.go (實體池)
 
-socket: 雙向通道 (雙向全雙工)
-
 parallel https://github.com/QueenieCplusplus/Golang/blob/master/Parallel.md (平行執行)
 
 threads https://github.com/QueenieCplusplus/Golang/blob/master/MultiThread.md
@@ -84,6 +82,11 @@ threads https://github.com/QueenieCplusplus/Golang/blob/master/MultiThread.md
 goroutine https://github.com/QueenieCplusplus/Golang/blob/master/Go_Routine.md
 
 效能問題 https://github.com/QueenieCplusplus/Optimization/blob/master/README.md
+
+--------------------------------------------
+{雙向通訊}
+
+socket: 雙向通道 (全雙工)
 
 ---------------------------------------------
 
