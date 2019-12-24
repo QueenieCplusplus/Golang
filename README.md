@@ -36,6 +36,8 @@ threads https://github.com/QueenieCplusplus/Golang/blob/master/MultiThread.md
 
 goroutine https://github.com/QueenieCplusplus/Golang/blob/master/Go_Routine.md
 
+效能問題 https://github.com/QueenieCplusplus/Optimization/blob/master/README.md
+
 ---------------------------------------------
 
 迴圈與資料結構
