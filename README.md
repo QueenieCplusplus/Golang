@@ -3,6 +3,8 @@
 
 plz see code.
 
+Intro https://github.com/QueenieCplusplus/Golang/blob/master/Intro.md (KickOff)
+
 structure https://github.com/QueenieCplusplus/Golang/blob/master/main.md (專案結構)
 
 lifecycle https://github.com/QueenieCplusplus/Golang/blob/master/main.go (main)
