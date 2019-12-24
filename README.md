@@ -15,7 +15,7 @@ signal https://github.com/QueenieCplusplus/Golang/blob/master/sig.go
    
    https://github.com/QueenieCplusplus/Golang/blob/master/sig.md
 
-chnnel https://github.com/QueenieCplusplus/Golang/blob/master/ChannelManager.go (單向-通道)
+channel https://github.com/QueenieCplusplus/Golang/blob/master/ChannelManager.go (單向-通道)
 
 pool https://github.com/QueenieCplusplus/Golang/blob/master/Pool.go (實體池)
 
@@ -50,3 +50,5 @@ https://github.com/QueenieCplusplus/Golang/blob/master/Analyzer.go （內容解�
 Package https://github.com/QueenieCplusplus/Golang/blob/master/Pkg.md
 
 Module Manager https://github.com/QueenieCplusplus/Golang/blob/master/GoMod.md
+
+
