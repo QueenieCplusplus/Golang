@@ -39,6 +39,8 @@ slice https://github.com/QueenieCplusplus/Golang/blob/master/Slice.md (切片資
 
 rune TBD
 
+fallthru TBD
+
 Crawler 
 
 https://github.com/QueenieCplusplus/Golang/blob/master/Scheduler.md (專案模組)
