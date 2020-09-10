@@ -11,7 +11,7 @@ lifecycle https://github.com/QueenieCplusplus/Golang/blob/master/main.go (main)
 
 ---------------------------------------------
 
-{循序的通訊}
+# 循序的通訊
 
 管線與佇列都屬於循序的通訊，前者屬於單向半雙工。
 
@@ -25,7 +25,9 @@ half-duplex https://github.com/QueenieCplusplus/Networking/blob/master/half_dupl
 
 ---------------------------------------------
 
-{同步的通訊}（不確定性與資源競奪上鎖）
+# 同步的通訊
+
+(增加結果的不確定性與資源競奪上鎖）
 
 * 同系統處理共用資源 share memory 的 IPC 使用 signal notify IPC
 * duplex 雙向全雙工的不同軟體系統間的溝通 Socket
@@ -84,7 +86,7 @@ goroutine https://github.com/QueenieCplusplus/Golang/blob/master/Go_Routine.md
 效能問題 https://github.com/QueenieCplusplus/Optimization/blob/master/README.md
 
 --------------------------------------------
-{雙向通訊}
+# 雙向通訊
 
 socket: 雙向通道 (全雙工)
 
