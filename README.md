@@ -25,7 +25,7 @@ half-duplex https://github.com/QueenieCplusplus/Networking/blob/master/half_dupl
 
 ---------------------------------------------
 
-# 同步的通訊
+# 非同步的通訊
 
 (增加結果的不確定性與資源競奪上鎖）
 
